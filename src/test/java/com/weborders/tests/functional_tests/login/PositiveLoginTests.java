@@ -13,6 +13,7 @@ public class PositiveLoginTests extends TestBase {
 
     @Test()
     public void positiveLoginTest() {
+
         extentLogger = report.createTest("Positive login test");
         extentLogger.info("Verifying login page title");
 
