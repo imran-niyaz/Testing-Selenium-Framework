@@ -7,4 +7,5 @@ public class ApplicationConstants {
     public static final String ORDER = "Order";
     public static final String LOGIN_PAGE_TITLE = "Web Orders Login";
     public static final String APPLICATION_TITLE = "Web Orders";
+
 }
